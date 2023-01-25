@@ -1,0 +1,11 @@
+Reflection
+
+Nigel Murray 104701222
+
+The things that I have learned by doing this workshop include: how to use cin/cout/ setting up a header file
+properly and the use of namespaces. This was deinfitely more complex than ipc144 which felt like they were
+holdign our hands compared to this. The difficulty mostly came from figuring out where to put my functions that
+I had made. Protoyping was the best way to figure this out as it gave me a broad idea of what was needed to 
+accomplish the task. Another tricky spot was in the UI.cpp file right at the beginning taking a solo character
+without the double. It took a while to wrap my head around that one but once figured out the rest went smoothly.
+All in all this was a great challenge to start OOP. 
